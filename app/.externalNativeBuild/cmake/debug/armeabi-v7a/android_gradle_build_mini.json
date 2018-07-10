@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/caotao/Documents/Git/NDKExample/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/caotao/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/caotao/Documents/Git/NDKExample/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-armeabi-v7a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/caotao/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/caotao/Documents/Git/NDKExample/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target native-lib",
+      "abi": "armeabi-v7a",
+      "output": "/Users/caotao/Documents/Git/NDKExample/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so"
+    }
+  }
+}

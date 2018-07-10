@@ -1,0 +1,15 @@
+Executable : /Users/caotao/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/caotao/Documents/Git/NDKExample/app
+-B/Users/caotao/Documents/Git/NDKExample/app/.externalNativeBuild/cmake/release/x86
+-DANDROID_ABI=x86
+-DANDROID_PLATFORM=android-15
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/caotao/Documents/Git/NDKExample/app/build/intermediates/cmake/release/obj/x86
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=/Users/caotao/Library/Android/sdk/ndk-bundle
+-DCMAKE_CXX_FLAGS=
+-DCMAKE_TOOLCHAIN_FILE=/Users/caotao/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/caotao/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

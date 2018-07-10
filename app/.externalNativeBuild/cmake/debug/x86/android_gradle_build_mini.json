@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/caotao/Documents/Git/NDKExample/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/caotao/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/caotao/Documents/Git/NDKExample/app/.externalNativeBuild/cmake/debug/x86 --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/caotao/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/caotao/Documents/Git/NDKExample/app/.externalNativeBuild/cmake/debug/x86 --target native-lib",
+      "abi": "x86",
+      "output": "/Users/caotao/Documents/Git/NDKExample/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so"
+    }
+  }
+}

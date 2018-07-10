@@ -1,0 +1,53 @@
+Project/
+
+# Build and Release Folders
+obj/
+*.apk
+*.ap_
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Proguard folder generated  by Eclipse
+proguard.cfg
+proguard-project.txt
+project.properties
+local.properties
+
+# Log files
+*.log
+
+# Libs
+#libs/
+
+# JNI files
+Android.mk
+*.mk
+
+.idea/
+*.iml
+.DS_Store
+settings.gradle
+gradlew
+gradlew.bat
+local.properties
+import-summary.txt
+
+lame-android/
+webrtc-android/
+pjproject-2.5/
+
